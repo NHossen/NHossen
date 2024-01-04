@@ -10,7 +10,7 @@ Hello, I'm Naeem Hossen and I work as a web developer. I have been working as a 
 * 🌍  I'm based in United arab emirates
 * 🖥️  See my portfolio at [NHossen Portfolio](https://my-portfolio-website-navy.vercel.app/)
 * ✉️  You can contact me at [naeem-hossen@outlook.com](mailto:naeemhossen2509@gmail.com)
-* 🚀  I'm currently working on [Eammu](http://nhossen.github.io/Eammu/)
+* 🚀  I'm currently working on [Eammu](http://eammu.com)
 * 🧠  I'm learning MERN Stack
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I like to travel any where in the world...
